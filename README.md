@@ -1,0 +1,1 @@
+https://github.com/flippus/Mark-Average-Computer-Wiki/wiki
