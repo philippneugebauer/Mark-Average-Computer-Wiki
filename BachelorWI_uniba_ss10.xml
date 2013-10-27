@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:Degrees xmlns:ns2="http://uniba.de/ppn/rechner">
+    <id>131020110</id>
+    <kontextStudium>8</kontextStudium>
+    <modulGroups>
+        <item>A1 WI Pflicht</item>
+        <item>24</item>
+    </modulGroups>
+    <modulGroups>
+        <item>A1 WI Wahlpflicht</item>
+        <item>18</item>
+    </modulGroups>
+    <modulGroups>
+        <item>A2 Info Pflicht</item>
+        <item>21</item>
+    </modulGroups>
+    <modulGroups>
+        <item>A2 Info Wahlpflicht I</item>
+        <item>12</item>
+    </modulGroups>
+    <modulGroups>
+        <item>A2 Info Wahlpflicht II</item>
+        <item>9</item>
+    </modulGroups>
+    <modulGroups>
+        <item>A3 BWL Pflicht</item>
+        <item>21</item>
+    </modulGroups>
+    <modulGroups>
+        <item>A3 BWL Wahlpflicht</item>
+        <item>15</item>
+    </modulGroups>
+    <modulGroups>
+        <item>A4 Quantitative Methoden</item>
+        <item>27</item>
+    </modulGroups>
+    <modulGroups>
+        <item>A5 Kontextstudium</item>
+        <item>18</item>
+    </modulGroups>
+    <modulGroups>
+        <item>A6 Seminar</item>
+        <item>3</item>
+    </modulGroups>
+    <modulGroups>
+        <item>A7 Bachelorarbeit</item>
+        <item>12</item>
+    </modulGroups>
+    <modulGroups>
+        <item>B Profilbildung</item>
+        <item>30</item>
+    </modulGroups>
+    <name>Ba WI</name>
+</ns2:Degrees>

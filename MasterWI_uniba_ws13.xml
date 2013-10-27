@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:Degrees xmlns:ns2="http://uniba.de/ppn/rechner">
+    <id>131021220</id>
+    <kontextStudium>-1</kontextStudium>
+    <modulGroups>
+        <item>A1 WI</item>
+	<item>42</item>
+        <item>24</item>
+    </modulGroups>
+    <modulGroups>
+        <item>A2 AI, Info, BWL</item>
+        <item>30</item>
+	<item>12</item>
+    </modulGroups>
+    <modulGroups>
+        <item>A3 Seminare</item>
+        <item>6</item>
+    </modulGroups>
+    <modulGroups>
+        <item>A4 Masterarbeit</item>
+        <item>30</item>
+    </modulGroups>
+    <modulGroupsOverallReduce>
+
+        <item>A1 WI</item>
+        <item>54</item>
+	<item>0</item>
+    </modulGroupsOverallReduce>
+
+    <modulGroupsOverallReduce>
+
+        <item>A2 AI, Info, BWL</item>
+        <item>54</item>
+	<item>0</item>
+    </modulGroupsOverallReduce>
+
+    <name>Ma WI</name>
+</ns2:Degrees>
