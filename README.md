@@ -1,3 +1,1 @@
-https://github.com/flippus/Mark-Average-Computer-Wiki/wiki
-
-Current Version: 2.2
+This repository provides samples and [detailed information](https://github.com/flippus/Mark-Average-Computer-Wiki/wiki) about the creation of customized content to adapt the the Mark-Average-Computer (current version: 2.2) to your university settings.
