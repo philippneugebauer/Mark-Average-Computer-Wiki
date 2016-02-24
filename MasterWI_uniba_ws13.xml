@@ -18,12 +18,10 @@
         <upperLimit>30</upperLimit>
     </modulGroups>
     <modulGroups>
-        <lowerLimit>3</lowerLimit>
         <name>A3 Seminare</name>
         <upperLimit>6</upperLimit>
     </modulGroups>
     <modulGroups>
-        <lowerLimit>27</lowerLimit>
         <name>A4 Masterarbeit</name>
         <upperLimit>30</upperLimit>
     </modulGroups>
