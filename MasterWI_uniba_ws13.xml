@@ -1,38 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:Degrees xmlns:ns2="http://uniba.de/ppn/rechner">
+    <ectsNumbers>3</ectsNumbers>
+    <ectsNumbers>6</ectsNumbers>
+    <ectsNumbers>9</ectsNumbers>
+    <ectsNumbers>12</ectsNumbers>
+    <ectsNumbers>30</ectsNumbers>
     <id>131021220</id>
     <kontextStudium>-1</kontextStudium>
     <modulGroups>
-        <item>A1 WI</item>
-	<item>42</item>
-        <item>24</item>
+        <lowerLimit>24</lowerLimit>
+        <name>A1 WI</name>
+        <upperLimit>42</upperLimit>
     </modulGroups>
     <modulGroups>
-        <item>A2 AI, Info, BWL</item>
-        <item>30</item>
-	<item>12</item>
+        <lowerLimit>12</lowerLimit>
+        <name>A2 AI, Info, BWL</name>
+        <upperLimit>30</upperLimit>
     </modulGroups>
     <modulGroups>
-        <item>A3 Seminare</item>
-        <item>6</item>
+        <lowerLimit>3</lowerLimit>
+        <name>A3 Seminare</name>
+        <upperLimit>6</upperLimit>
     </modulGroups>
     <modulGroups>
-        <item>A4 Masterarbeit</item>
-        <item>30</item>
+        <lowerLimit>27</lowerLimit>
+        <name>A4 Masterarbeit</name>
+        <upperLimit>30</upperLimit>
     </modulGroups>
     <modulGroupsOverallReduce>
-
-        <item>A1 WI</item>
-        <item>54</item>
-	<item>0</item>
+        <modulGroupNames>A1 WI</modulGroupNames>
+        <modulGroupNames>A2 AI, Info, BWL</modulGroupNames>
+        <upperLimit>54</upperLimit>
     </modulGroupsOverallReduce>
-
-    <modulGroupsOverallReduce>
-
-        <item>A2 AI, Info, BWL</item>
-        <item>54</item>
-	<item>0</item>
-    </modulGroupsOverallReduce>
-
     <name>Ma WI</name>
 </ns2:Degrees>

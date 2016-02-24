@@ -1,54 +1,59 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:Degrees xmlns:ns2="http://uniba.de/ppn/rechner">
+    <ectsNumbers>3</ectsNumbers>
+    <ectsNumbers>6</ectsNumbers>
+    <ectsNumbers>9</ectsNumbers>
+    <ectsNumbers>12</ectsNumbers>
+    <ectsNumbers>30</ectsNumbers>
     <id>131020110</id>
     <kontextStudium>8</kontextStudium>
     <modulGroups>
-        <item>A1 WI Pflicht</item>
-        <item>24</item>
+        <name>A1 WI Pflicht</name>
+        <upperLimit>24</upperLimit>
     </modulGroups>
     <modulGroups>
-        <item>A1 WI Wahlpflicht</item>
-        <item>18</item>
+        <name>A1 WI Wahlpflicht</name>
+        <upperLimit>18</upperLimit>
     </modulGroups>
     <modulGroups>
-        <item>A2 Info Pflicht</item>
-        <item>21</item>
+        <name>A2 Info Pflicht</name>
+        <upperLimit>21</upperLimit>
     </modulGroups>
     <modulGroups>
-        <item>A2 Info Wahlpflicht I</item>
-        <item>12</item>
+        <name>A2 Info Wahlpflicht I</name>
+        <upperLimit>12</upperLimit>
     </modulGroups>
     <modulGroups>
-        <item>A2 Info Wahlpflicht II</item>
-        <item>9</item>
+        <name>A2 Info Wahlpflicht II</name>
+        <upperLimit>9</upperLimit>
     </modulGroups>
     <modulGroups>
-        <item>A3 BWL Pflicht</item>
-        <item>19</item>
+        <name>A3 BWL Pflicht</name>
+        <upperLimit>19</upperLimit>
     </modulGroups>
     <modulGroups>
-        <item>A3 BWL Wahlpflicht</item>
-        <item>17</item>
+        <name>A3 BWL Wahlpflicht</name>
+        <upperLimit>17</upperLimit>
     </modulGroups>
     <modulGroups>
-        <item>A4 Quantitative Methoden</item>
-        <item>27</item>
+        <name>A4 Quantitative Methoden</name>
+        <upperLimit>27</upperLimit>
     </modulGroups>
     <modulGroups>
-        <item>A5 Kontextstudium</item>
-        <item>18</item>
+        <name>A5 Kontextstudium</name>
+        <upperLimit>18</upperLimit>
     </modulGroups>
     <modulGroups>
-        <item>A6 Seminar</item>
-        <item>3</item>
+        <name>A6 Seminar</name>
+        <upperLimit>3</upperLimit>
     </modulGroups>
     <modulGroups>
-        <item>A7 Bachelorarbeit</item>
-        <item>12</item>
+        <name>A7 Bachelorarbeit</name>
+        <upperLimit>12</upperLimit>
     </modulGroups>
     <modulGroups>
-        <item>B Profilbildung</item>
-        <item>30</item>
+        <name>B Profilbildung</name>
+        <upperLimit>30</upperLimit>
     </modulGroups>
     <name>Ba WI</name>
 </ns2:Degrees>
